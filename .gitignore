@@ -1,0 +1,36 @@
+# Arquivo ignorados
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Documentos sensíveis ou pesados (não versionar)
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Pastas com documentos pessoais ou anexos
+anexos/
+documentos_originais/
+DIpad1818/
+DOEpad1818/
