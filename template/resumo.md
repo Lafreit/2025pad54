@@ -1,7 +1,6 @@
-# template/resumo.md
-# RESUMO ClickOn
-# PAD Nº:	54/2025
-# RQTE: RESUMO
+# RESUMO DOS FATOS E FUNDAMENTAÇÃO JURÍDICA
+- PAD Nº:	54/2025
+- RQTE: RESUMO
 - Assunto/Tema:  Art. 157, V, e a 188, LCMA 31/2013 - Desídia e Suspensão Preventiva
 
 # Resumo
