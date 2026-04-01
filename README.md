@@ -108,7 +108,8 @@ PAD-Defesa/
 - Notificação do servidor
 
 # 📌 Esquema:
-'''PAD
+
+```PAD
 ├── Fase Preliminar
 │   ├── Investigação
 │   └── Levantamento de Fatos
@@ -123,9 +124,10 @@ PAD-Defesa/
 ├── Relatório Final
 ├── Decisão da Autoridade
 └── Recursos/Revisão
-'''
+```
 
 # 🔶 FLUXOGRAMA DETALHADO DO PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD)
+
 ```plaintext
 Início do PAD
    │
@@ -182,6 +184,7 @@ Início do PAD
 ```
 
 # 📘 - Projeto de Defesa do PAD
+
 # 🛡️ Projeto de Defesa – Processo Administrativo Disciplinar (PAD)
 
 Este repositório organiza toda a documentação, versões, anexos e pesquisas relacionadas à defesa apresentada no Processo Administrativo Disciplinar (PAD).  
@@ -191,8 +194,49 @@ A estrutura foi planejada para garantir clareza, rastreabilidade e controle de v
 
 ## 📂 Estrutura do Repositório
 
-
-pad-defesa/ │ ├── docs/ │   ├── edital/ │   ├── notificacoes/ │   ├── portarias/ │   └── outros/ │ ├── defesa/ │   ├── minuta/ │   ├── versoes/ │   └── final/ │ ├── anexos/ │   ├── documentos-pessoais/ │   ├── comprovantes/ │   └── provas/ │ ├── pesquisa/ │   ├── jurisprudencia/ │   ├── doutrina/ │   └── legislacao/ │ ├── scripts/ │ └── .gitignore
+```
+|-- Atospad1818
+|   |-- 2025pad54-Citacao.pdf
+|   |-- DefesaPreviaPad_54-2025 (1).pdf
+|   `-- DefesaPreviaPad_54-2025.docx
+|-- DIpad1818
+|   |-- 0955.560.0015670-2025.pdf
+|   |-- 0955.560.0016327-2025.pdf
+|   `-- 0955.560.0016563-2025.pdf
+|-- DOEpad1818
+|   |-- 20250829Ed2706CSata20250807AutPAD.pdf
+|   |-- 20250829eD2706CSata20250814AtuPAD&SuspPrev.pdf
+|   `-- 20260109.Ed2797port1818.pdf
+|-- OutrasSindicancias
+|   |-- 0000247-2026-PAD.pdf
+|   |-- 0955.560.0015670-2025_Perda_PZ_Multirao-PAD.pdf
+|   `-- 0955.5600003285-2025_DrMagrini_PendenciasSAJ_de_LAF.pdf
+|-- Pipfile
+|-- Provas
+|   `-- AvisoFerias2025.docx
+|-- README.md
+|-- template
+|   |-- MinutaDefesa.md
+|   |-- MinutaDefesaPrevia.md
+|   `-- resumo.md
+`-- venv
+    |-- Include
+    |-- Lib
+    |   `-- site-packages
+    |-- Scripts
+    |   |-- Activate.ps1
+    |   |-- activate
+    |   |-- activate.bat
+    |   |-- activate.fish
+    |   |-- deactivate.bat
+    |   |-- pip.exe
+    |   |-- pip3.14.exe
+    |   |-- pip3.exe
+    |   |-- python.exe
+    |   `-- pythonw.exe
+    `-- pyvenv.cfg
+
+```
 
 ---
 
