@@ -28,6 +28,7 @@ Thumbs.db
 *.xlsx
 *.ppt
 *.pptx
+*.txt
 
 # Pastas com documentos pessoais ou anexos
 anexos/
@@ -37,3 +38,4 @@ DOEpad1818/
 OutrasSindicancias/
 Atospad1818/
 Provas/
+Legislacao/
