@@ -115,13 +115,27 @@ PAD-Defesa/
 │   └── Levantamento de Fatos
 ├── Instauração
 │   ├── Portaria de Instauração
-│   ├── Comissão Proc
+│   ├── Comissão Processante
+        └── Art. 21, LC nº 235/2023: 
+              - Comissão previamente nomeada
+              - Composta exclusivamente por Procuradores Municipais estáveis.
+              - Não pode integrar a Comissão o advogado de alguma das autarquias municipais.
+                - Lei  complementar nº 259/2024, art. 5°:
+                    - "Os cargos de "Advogado" redistribuídos na forma do art. 1° serão extintos com a sua vacância."
+              - Comissão composta por 3 membros, sendo um Presidente e dois Membros.
+              - Comissão deve ser composta por Procuradores Municipais de carreira, estáveis, e não pode integrar a Comissão o advogado de alguma das autarquias municipais.
 ├── Instrução Processual
 │   ├── Citação/Notificação
 │   ├── Produção de Provas
-│   └── Relatório Parcial
-├── Defesa
-├── Relatório Final
+│       ├── Oitiva de Testemunhas
+│       ├── Depoimento do Acusado
+│       ├── determinar Diligências
+│       └── Perícias (se necessário)
+├── Defesa Prévia
+    ├── prazo de 10 dias (art. 203, caput, da Lei complementar nº 31/2013)
+├── Relatório conclusivo da Comissão (art. 203, segnda parte e §1º, da Lei complementar nº 31/2013)
+    ├── Se absolvição ou arquivamento → encaminhamento à autoridade competente
+    ├── Se penalidade → encaminhamento à autoridade competente para decisão.
 ├── Decisão da Autoridade
 └── Recursos/Revisão
 ```
